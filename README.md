@@ -4,4 +4,4 @@
 ![boxplot_imag](/imgs/boxplot.png)
 
 ### Choose Proper Plot:
-![plots][/imgs/plots.jpg]
+![plots](/imgs/plots.jpg)

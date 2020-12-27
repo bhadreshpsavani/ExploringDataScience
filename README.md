@@ -18,6 +18,9 @@ The Objective of this repository is to collect projects and learning Resources f
 ### Blogs:
 [shanelynn for Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
+### Statistics:
+[MarinStatsLectures-R Programming & Statistics](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
+
 ### Pandas Tricks:
 * `pd.df1.append(df2)`: if we have multiple samples in the data, we can iteratively append sample at the end of the data
 * `pd.read_json(json object, orient='')`: we can read json object of different orientation
